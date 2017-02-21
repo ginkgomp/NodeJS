@@ -3,3 +3,4 @@ Hope I can keep working on this hands on exercise and finally finishing it, lear
 
 ##Week #1:
 - Introduction to Node.js and NPM
+- Node Modules
